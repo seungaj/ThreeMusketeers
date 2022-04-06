@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+Dec 4,2,2,Yusuf,Finalized classes and methods for my Chance Bar feature,Debugging,Dec 4,None
+Dec 4,2,2,Ataol,I imlimented all the strategy classes under the abstract strategy class,I am planning to add the timer future ,Dec 4,None
+Dec 4, 2, 2, SeungA, Completed implementing Iterator class, implement iterator on isMusketeteerDanger and print out danger sign, Dec 5, No blockers
+De 4, 2, 2, Shawn, Completed MoveHistoryToFile class, Finishing FileToMoveHistory, Dec 5, No blockers

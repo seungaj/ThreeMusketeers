@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+Nov 25, 1, 2, Shawn, Finished GreedyAgent loading bar, Setting up classes for Save Moves feature, November 28, No blockers
+Nov 25, 1, 2, Yusuf,Added additional methods for Game Restart feature,Setting up classes for Chance Bar feature,November 27,Adding additional prompts to existing code changed its behaviour. I will need to make a few more adjustments than I anticipated.
+Nov 25, 1, 2, Ataol,setting up classes for data models, writing registration functionality,November 28, No blockers
+Nov 25, 1, 2, SeungA, Setting up method for Danger Alert, continue working on method for Danger Alert, November 28, Understanding board coordinate cells

@@ -1,0 +1,11 @@
+Story Number, Name, Owner, Priority, Estimate, As a, I want, So that, IMPL Details
+User Story 2.1, Chance indicator,Yusuf,5,3,User,To be able to see the likelihood of my side’s winning after making a move. Also being able to choose the move with the highest probability of winning from a list of provided moves.,I can better strategize my moves for maximizing a win against the opponent,Create an input mode so that the user can pick the best move from a list of available moves that turn.
+User Story 1.1, Restart Game,Yusuf,4,1,User,To be able to start over once I am done playing,I don't have to close and re-run the game,Add an iterable option for user input so that the necessary components of the game can be reloaded.
+User Story 1.5, Danger Sign, SeungA, 9, 3, Computer, To alert the player that musketeers are closely aligned in a row or column by chaning the musketeer in red, I need to be careful of the muketeers in a row or column, checks every muskeeter piece in an 'almost' row or column. 
+User Story 2.4, Score Board, SeungA, 3, 2, Computer, To be able to rank users, I know who has best scores based on how many moves and time it took for them to win, get number of saved moves and length of time user played game to complete score board. 
+User Story 1.3, User Registrar, Ataol, 1, 3, User, I want to implement create a small database so it can store player profiles, I want to give a better user experience, Storing profile inputs.
+User Story 2.3, Fast game mode, Ataol, 7, 2, User, I want to implement a neew game mode that is harder than other game modes since it is between time frame, I want to give a better user experience and fun, Strategy will be added for a more fun game.
+User Story 1.2, GreedyAgent loading bar, Shawn, 8, 1, User, I want to see a loading bar when GreedyAgent moves, I know how long until I can move, Takes total available moves and creates a loading bar that slowly fills after each move is processed.
+User Story 2.2, Save Moves, Shawn, 2, 3, User, I want all previous moves to be saved when I save a board, I can see all moves played in the txt file or be able to undo them once the board is loaded, save all moves under the board in its file.
+,,,,,,,,
+,,,,,,,,

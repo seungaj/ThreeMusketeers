@@ -1,0 +1,27 @@
+●  The participants in the meeting
+Yusuf, Ataol, Shawn, SeungA
+-  **Any unfinished tasks**
+- Yusuf: None, though Chance Bar lacks initially planned visuals.
+- Ataol: No unfinished tasks on the way I changed my design pattern to strategy pattern
+- Shawn: No unfinished tasks
+- SeungA: None
+- ●  What are some good practices that helped you during this sprint?
+- Yusuf: Keeping in touch with the rest of the team more frequently
+- Ataol: Following the design patterns actually helped me to plan and implement correctly
+- Shawn: Using the checkpoints set in standups to moderate progress
+- SeungA: Going over how pull request in github works, and researching different examples of how the Iterator pattern is used in different cases. 
+- ●  What are some new practices that you might want to employ during your next project?
+- Yusuf: Agile development with scrum meetings. They really do make things easier for everyone.
+- Ataol: For the next project I would like to add GUI for visual graphics 
+- Shawn: I'd like to work with other people on their features, it would help me fully understand their code
+- SeungA: I wish to practice more design patterns to implement in my next project. I also hope to work with others as they like giving and receiving feedback to different code styles. I liked how I learned from others’ code. 
+- ●  What are (if any) harmful practices that hurt the progression of this sprint?
+- Yusuf: Assuming how others’ methods will/ will not interact with mine.
+- Ataol: Time difference 
+- Shawn: Leaving the difficult features to last, work wasn’t spread across sprints evenly.
+- SeungA: I initially planned to have another feature, but due to time limit, I was not able to move on to the last feature. I underestimated how difficult it is to work with others in a single project. 
+- ●  What was your best/worst experience during sprint 2?
+- Yusuf: Changing branches on terminal without losing any progress made with my local repo.
+- Ataol: Able to follow open-close principle 
+- Shawn: Best experience was meeting people in the same course, worst experience was undoing commits to dev so that we could have proper commit messages
+- SeungA: My best experience was having the same goal with different people. I was able to see outside of the box and improve the project better. My worst experience was not being able to continue on to my next planned feature. I hope to plan more realistically in my next project. 

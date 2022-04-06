@@ -1,0 +1,3 @@
+Story Number, Name, Owner, Priority, Estimate, As a, I want, So that, IMPL Details
+User Story 2.4, Score Board, SeungA, 3, 2, Computer, To be able to rank users, I know who has best scores based on how many moves and time it took for them to win, get number of saved moves and length of time user played game to complete score board. 
+User Story 1.4, Sound implimentation, Ataol, 4, 3, Computer,To be able to give sound effects, People can get better user experince, gives sound effects according the movement of the user on the board. 
